@@ -6,10 +6,7 @@
 5. zipFiles                 - Folder to store zip files of dataset. 
 
 - Due to large file size, dataset is stored in One Drive Project Folder. 
-
 - https://cloudmails-my.sharepoint.com/:f:/g/personal/tp061720_mail_apu_edu_my/EvaV3YpfbkBPjsUvSkqgHJgB5YwTjtJdZTi8G1YmLpTLRg?e=pmXtiA
-
-
 - If link does not work, please contact me directly for assistance.                
 
 # If you require any further clarification, please do contact me at the following details:
