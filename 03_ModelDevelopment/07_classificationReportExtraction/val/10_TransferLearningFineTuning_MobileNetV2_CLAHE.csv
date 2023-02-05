@@ -1,0 +1,5 @@
+,0_normal_CLAHE,1_ulcerative_colitis_CLAHE,2_polyps_CLAHE,3_esophagitis_CLAHE,accuracy,macro avg,weighted avg,modelName,modelTag
+precision,1,0.949367089,1,0.986842105,0.983333333,0.984052298,0.984052298,10_TransferLearningFineTuning_MobileNetV2_CLAHE,10
+recall,1,1,0.933333333,1,0.983333333,0.983333333,0.983333333,10_TransferLearningFineTuning_MobileNetV2_CLAHE,10
+f1-score,1,0.974025974,0.965517241,0.993377483,0.983333333,0.983230175,0.983230175,10_TransferLearningFineTuning_MobileNetV2_CLAHE,10
+support,150,150,150,150,0.983333333,600,600,10_TransferLearningFineTuning_MobileNetV2_CLAHE,10

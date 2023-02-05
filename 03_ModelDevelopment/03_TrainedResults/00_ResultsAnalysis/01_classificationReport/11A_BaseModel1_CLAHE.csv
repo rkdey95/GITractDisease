@@ -1,0 +1,5 @@
+,0_normal,1_ulcerative_colitis,2_polyps,3_esophagitis,accuracy,macro avg,weighted avg,modelName,modelTag
+precision,1,0.777027027,0.773333333,0.986842105,0.885,0.884300616,0.884300616,11A_BaseModel1_CLAHE,11A
+recall,1,0.766666667,0.773333333,1,0.885,0.885,0.885,11A_BaseModel1_CLAHE,11A
+f1-score,1,0.771812081,0.773333333,0.993377483,0.885,0.884630724,0.884630724,11A_BaseModel1_CLAHE,11A
+support,150,150,150,150,0.885,600,600,11A_BaseModel1_CLAHE,11A

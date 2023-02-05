@@ -1,0 +1,5 @@
+,0_normal_RAYLEIGH,1_ulcerative_colitis_RAYLEIGH,2_polyps_RAYLEIGH,3_esophagitis_RAYLEIGH,accuracy,macro avg,weighted avg,modelName,modelTag
+precision,1,0.937304075,0.996428571,0.996677741,0.981666667,0.982602597,0.982602597,08_TransferLearningFineTuning_ResNet50V2_RAYLEIGH_tunedLrScheduler_TEST,8
+recall,1,0.996666667,0.93,1,0.981666667,0.981666667,0.981666667,08_TransferLearningFineTuning_ResNet50V2_RAYLEIGH_tunedLrScheduler_TEST,8
+f1-score,1,0.966074313,0.962068966,0.998336106,0.981666667,0.981619846,0.981619846,08_TransferLearningFineTuning_ResNet50V2_RAYLEIGH_tunedLrScheduler_TEST,8
+support,300,300,300,300,0.981666667,1200,1200,08_TransferLearningFineTuning_ResNet50V2_RAYLEIGH_tunedLrScheduler_TEST,8

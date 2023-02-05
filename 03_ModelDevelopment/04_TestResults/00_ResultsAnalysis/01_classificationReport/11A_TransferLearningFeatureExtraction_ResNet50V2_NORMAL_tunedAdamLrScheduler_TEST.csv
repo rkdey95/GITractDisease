@@ -1,0 +1,5 @@
+,0_normal,1_ulcerative_colitis,2_polyps,3_esophagitis,accuracy,macro avg,weighted avg,modelName,modelTag
+precision,0.978873239,0.798192771,0.861016949,0.955017301,0.894166667,0.898275065,0.898275065,11A_TransferLearningFeatureExtraction_ResNet50V2_NORMAL_tunedAdamLrScheduler_TEST,11A
+recall,0.926666667,0.883333333,0.846666667,0.92,0.894166667,0.894166667,0.894166667,11A_TransferLearningFeatureExtraction_ResNet50V2_NORMAL_tunedAdamLrScheduler_TEST,11A
+f1-score,0.952054795,0.838607595,0.853781513,0.937181664,0.894166667,0.895406391,0.895406391,11A_TransferLearningFeatureExtraction_ResNet50V2_NORMAL_tunedAdamLrScheduler_TEST,11A
+support,300,300,300,300,0.894166667,1200,1200,11A_TransferLearningFeatureExtraction_ResNet50V2_NORMAL_tunedAdamLrScheduler_TEST,11A

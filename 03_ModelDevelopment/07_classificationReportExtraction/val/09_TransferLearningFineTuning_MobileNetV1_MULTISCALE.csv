@@ -1,0 +1,5 @@
+,0_normal_MULTISCALE,1_ulcerative_colitis_MULTISCALE,2_polyps_MULTISCALE,3_esophagitis_MULTISCALE,accuracy,macro avg,weighted avg,modelName,modelTag
+precision,1,0.979166667,0.941935484,0.993377483,0.978333333,0.978619908,0.978619908,09_TransferLearningFineTuning_MobileNetV1_MULTISCALE,9
+recall,1,0.94,0.973333333,1,0.978333333,0.978333333,0.978333333,09_TransferLearningFineTuning_MobileNetV1_MULTISCALE,9
+f1-score,1,0.959183673,0.957377049,0.996677741,0.978333333,0.978309616,0.978309616,09_TransferLearningFineTuning_MobileNetV1_MULTISCALE,9
+support,150,150,150,150,0.978333333,600,600,09_TransferLearningFineTuning_MobileNetV1_MULTISCALE,9
